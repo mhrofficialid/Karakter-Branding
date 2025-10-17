@@ -1,0 +1,5 @@
+{
+  "name": "Generator Karakter Branding",
+  "description": "An AI-powered tool to help you create a consistent branding character by defining its visual recipe, including body proportions, style, facial features, and outfit. You can upload reference images for face and style, and then generate character images in various poses and settings.",
+  "requestFramePermissions": []
+}
